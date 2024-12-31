@@ -1,0 +1,138 @@
+2024-02-11 10:54:40,868 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-11 11:05:48,122 [Worker-37: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:SimpleJPAInsert:1.0-SNAPSHOT @ E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\pom.xml.
+2024-02-11 11:05:49,039 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:05:49,041 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:05:49,049 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:05:49,049 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:07:33,097 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:07:33,102 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:07:33,103 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:07:33,103 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:09:17,684 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:09:17,686 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:09:17,687 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:09:17,688 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:09:23,577 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:09:23,578 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:09:23,578 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:09:23,578 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:09:51,657 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:09:51,658 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:09:51,660 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:09:51,661 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:11:56,523 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:11:56,524 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:11:56,525 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:11:56,525 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:12:14,679 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:12:14,680 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:12:14,680 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:12:14,680 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:14:22,621 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:14:22,622 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:14:22,623 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:14:22,623 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:15:28,246 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:15:28,246 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:15:28,248 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:15:28,248 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:17:17,363 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:17:17,363 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:17:17,364 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:17:17,364 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:18:31,392 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:18:31,392 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:18:31,394 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:18:31,395 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:47:07,455 [Worker-48: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\pom.xml
+2024-02-11 11:47:07,659 [Worker-48: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jpa:jpa_crud_demo:0.0.1-SNAPSHOT @ E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\pom.xml.
+2024-02-11 11:47:07,884 [Worker-48: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jpa_crud_demo/src/main/java
+2024-02-11 11:47:07,885 [Worker-48: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jpa_crud_demo/src/test/java
+2024-02-11 11:47:07,911 [Worker-48: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-02-11 11:47:08,126 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:08,127 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\main\resources
+2024-02-11 11:47:08,128 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:08,128 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:47:23,191 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:23,192 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\main\resources
+2024-02-11 11:47:23,192 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:23,193 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:47:32,051 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:32,051 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\main\resources
+2024-02-11 11:47:32,051 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:32,051 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:47:55,282 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jpa:jpa_crud_demo:0.0.1-SNAPSHOT @ E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\pom.xml.
+2024-02-11 11:47:55,441 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:55,441 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\main\resources
+2024-02-11 11:47:55,443 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:55,443 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:47:56,618 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:56,618 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\main\resources
+2024-02-11 11:47:56,619 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:47:56,620 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:48:13,779 [Worker-53: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:48:13,780 [Worker-53: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:48:13,781 [Worker-53: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:48:13,781 [Worker-53: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:48:13,787 [Worker-53: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:48:13,787 [Worker-53: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\main\resources
+2024-02-11 11:48:13,788 [Worker-53: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:48:13,788 [Worker-53: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:48:27,209 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:48:27,209 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\main\resources
+2024-02-11 11:48:27,210 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:48:27,210 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:48:43,191 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:48:43,191 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\main\resources
+2024-02-11 11:48:43,191 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:48:43,191 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:49:28,202 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:49:28,204 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:49:28,208 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:49:28,208 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:49:37,303 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:49:37,303 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:49:37,304 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:49:37,305 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\jpa_crud_demo\src\test\resources
+2024-02-11 11:53:52,467 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:53:52,467 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:53:52,468 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:53:52,468 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 11:58:24,380 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:58:24,380 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 11:58:24,381 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 11:58:24,381 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 12:01:12,116 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:01:12,116 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 12:01:12,117 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:01:12,117 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 12:03:04,812 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:03:04,812 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 12:03:04,812 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:03:04,812 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 12:03:36,111 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:03:36,111 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 12:03:36,112 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:03:36,112 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 12:04:37,397 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:04:37,398 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 12:04:37,399 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:04:37,399 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 12:05:26,749 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:05:26,749 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 12:05:26,750 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:05:26,750 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 12:05:46,314 [Worker-63: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:05:46,314 [Worker-63: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 12:05:46,315 [Worker-63: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:05:46,315 [Worker-63: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 12:07:42,297 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:07:42,297 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 12:07:42,298 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:07:42,298 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-02-11 12:08:09,404 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:08:09,405 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-11 12:08:09,405 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-11 12:08:09,405 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\STUDAY MATERIAL\JAVA FSD\JPA AND HIBERNATE\JPA PROGRAMS\SimpleJPAInsert\src\test\resources
+2024-03-20 16:02:46,082 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-20 17:08:07,638 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
